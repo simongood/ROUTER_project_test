@@ -32,8 +32,8 @@
 # 分支控制
 ## 常駐分支
 1. 程珣
-  * develope : 提供所有 feature 分支合併
-  * main (master) : 提供 release 合併 / 已上線分支
+   * develope : 提供所有 feature 分支合併
+   * main (master) : 提供 release 合併 / 已上線分支
 
 ## 任務分支 / 測試bug 修正
 1. 程珣
