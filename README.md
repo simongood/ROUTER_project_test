@@ -65,14 +65,6 @@ project-root/
 │   ├── main_plan/          # 家偉負責的情境搜尋演算法 main 建置
 │   ├── trip/               # 啓舜負責的旅遊演算法功能開發
 │   └── main_trip/          # 啓舜負責的旅遊演算法 main 建置
-├── docs/                   # 專案相關文檔
-│   ├── requirements/       # 功能需求文檔
-│   ├── design/             # 設計規範與流程圖
-│   └── user-guides/        # 使用手冊與操作指南
-├── tests/                  # 測試相關模組
-│   ├── unit/               # 單元測試
-│   ├── integration/        # 整合測試
-│   └── e2e/                # 端對端測試
 └── README.md               # 專案簡介與基本說明
 ```
 
