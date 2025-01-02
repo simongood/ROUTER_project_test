@@ -58,6 +58,7 @@
 
 ---
 # 資料夾樹狀圖
+'''
 project-root/
 ├── feature/
 │   ├── line/               # 澎澎負責的 Line 端各功能開發
@@ -77,3 +78,4 @@ project-root/
 │   ├── integration/        # 整合測試
 │   └── e2e/                # 端對端測試
 └── README.md               # 專案簡介與基本說明
+'''
