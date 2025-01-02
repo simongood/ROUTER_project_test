@@ -33,24 +33,24 @@
 
 ## 任務分支 / 測試bug 修正
 1. 程珣
-  * release : 提供 develope 合併 / 上線前測試
-  * hotfix : release 、main 分支 bug 修復
+    * release : 提供 develope 合併 / 上線前測試
+    * hotfix : release 、main 分支 bug 修復
 
 ## 任務分支 / 功能開發
 1. 澎澎
-  * `feature/line` : Line 端各功能開發
+    * `feature/line` : Line 端各功能開發
 2. ABBY
-  * `feature/LLM` : LLM 端各功能開發
+    * `feature/LLM` : LLM 端各功能開發
 3. 石頭
-  * `feature/retrival` : 向量搜尋功能開發
+    * `feature/retrival` : 向量搜尋功能開發
 4. 瑜庭
-  * `feature/SQL` : 關聯式搜尋功能開發
-  * `feature/plan` : 情境搜尋演算法開發
+    * `feature/SQL` : 關聯式搜尋功能開發
+    * `feature/plan` : 情境搜尋演算法開發
 5. 家偉
-  * `feature/main_plan` : 情境搜尋演算法 main 建置
+    * `feature/main_plan` : 情境搜尋演算法 main 建置
 6. 啓舜
-  * feature/trip : 旅遊演算法功能開發
-  * feature/main_trip : 旅遊演算法 main 建置
+    * feature/trip : 旅遊演算法功能開發
+    * feature/main_trip : 旅遊演算法 main 建置
 
 ---
 # 資料夾樹狀圖
