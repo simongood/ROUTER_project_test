@@ -17,14 +17,6 @@
 5. 家偉 : main_plan.py
 
 ---
-## 注意事項
-* 每個方框都是一個 function
-* 請把每一個功能寫成一個 function !!!
-* 內部內容、順序、type一定不可更動，必須符合規範 !!!
-* 各部位務必再確認接收參數的部位是否符合要求
-* 盡量使利用模組化的方式建置程式碼
-
----
 ## 分支控制
 ### 常駐分支
 1. 程珣
@@ -72,3 +64,12 @@ project-root/
 ---
 ## 各接口、負責人詳細資訊
 * https://docs.google.com/presentation/d/18xqwSCuFtxsEjBkQ4jkxNkvXWN2dcOt_0aOsSer9k_g/edit#slide=id.g32640ae6244_1_32
+
+---
+## 注意事項
+* 每個方框都是一個 function
+* 請把每一個功能寫成一個 function !!!
+* 內部內容、順序、type一定不可更動，必須符合規範 !!!
+* 各部位務必再確認接收參數的部位是否符合要求
+* 盡量使利用模組化的方式建置程式碼
+
