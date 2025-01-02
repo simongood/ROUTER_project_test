@@ -26,17 +26,17 @@
 
 ---
 # 分支控制
-## 常駐分支
+### 常駐分支
 1. 程珣
    * develope : 提供所有 feature 分支合併
    * main (master) : 提供 release 合併 / 已上線分支
 
-## 任務分支 / 測試bug 修正
+### 任務分支 / 測試bug 修正
 1. 程珣
     * release : 提供 develope 合併 / 上線前測試
     * hotfix : release 、main 分支 bug 修復
 
-## 任務分支 / 功能開發
+### 任務分支 / 功能開發
 1. 澎澎
     * `feature/line` : Line 端各功能開發
 2. ABBY
