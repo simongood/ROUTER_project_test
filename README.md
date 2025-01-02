@@ -1,15 +1,15 @@
 # ROUTER_project_test
 ---
 
-# 人員控制
-## <旅遊演算法> 各部位工作人員
+## 人員控制
+### <旅遊演算法> 各部位工作人員
 1. 澎澎 : Line 端
 2. ABBY : LLM 端
 3. 石頭 : 向量搜尋端
 4. 瑜庭 : 關聯式搜尋端
 5. 啓舜 : 旅遊演算法、main_trip.py
 
-## <情境搜尋演算法> 各部位工作人員
+### <情境搜尋演算法> 各部位工作人員
 1. 澎澎 : Line 端
 2. ABBY : LLM 端
 3. 石頭 : 向量搜尋端
@@ -17,7 +17,7 @@
 5. 家偉 : main_plan.py
 
 ---
-# 注意事項
+## 注意事項
 * 每個方框都是一個 function
 * 請把每一個功能寫成一個 function !!!
 * 內部內容、順序、type一定不可更動，必須符合規範 !!!
@@ -25,7 +25,7 @@
 * 盡量使利用模組化的方式建置程式碼
 
 ---
-# 分支控制
+## 分支控制
 ### 常駐分支
 1. 程珣
    * develope : 提供所有 feature 分支合併
@@ -53,7 +53,7 @@
     * feature/main_trip : 旅遊演算法 main 建置
 
 ---
-# 資料夾樹狀圖
+## 資料夾樹狀圖
 ```
 project-root/
 ├── feature/
@@ -70,5 +70,5 @@ project-root/
 ```
 
 ---
-# 各接口、負責人詳細資訊
+## 各接口、負責人詳細資訊
 * https://docs.google.com/presentation/d/18xqwSCuFtxsEjBkQ4jkxNkvXWN2dcOt_0aOsSer9k_g/edit#slide=id.g32640ae6244_1_32
