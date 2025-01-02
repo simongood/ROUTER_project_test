@@ -1,8 +1,4 @@
 # ROUTER_project_test
-
-# 各接口、負責人詳細資訊
-* https://docs.google.com/presentation/d/18xqwSCuFtxsEjBkQ4jkxNkvXWN2dcOt_0aOsSer9k_g/edit#slide=id.g32640ae6244_1_32
-
 ---
 
 # 人員控制
@@ -79,3 +75,7 @@ project-root/
 │   └── e2e/                # 端對端測試
 └── README.md               # 專案簡介與基本說明
 ```
+
+---
+# 各接口、負責人詳細資訊
+* https://docs.google.com/presentation/d/18xqwSCuFtxsEjBkQ4jkxNkvXWN2dcOt_0aOsSer9k_g/edit#slide=id.g32640ae6244_1_32
